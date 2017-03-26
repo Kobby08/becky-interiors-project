@@ -1,0 +1,101 @@
+#social-media ul{
+	margin-top:0;
+	
+	list-style:none;
+	text-align:right;
+	position:relative;
+	top:-100px;
+}
+
+#social-media li{
+	float:right;
+	margin-left:10px;
+	padding:0 0 0 15px;
+}
+
+
+#topnav ul{
+	margin:0;
+	padding-left:50px;
+	padding-top:7px;
+	list-style:none;
+	margin-down:10px;
+}
+
+#topnav li{
+	float:right;
+	margin-left:0px;
+	padding:10px;
+}
+
+#topnav a{
+	color:#5F5F5F;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-decoration:none;
+	
+	
+}
+
+#banner{
+	margin-left:0px;
+	
+}
+
+
+
+
+
+#content{
+	float:left;
+	width:600px;
+	margin-left:50px;
+}
+
+#rightside{
+	float:right;
+	width:500px;
+	margin-right:50px;
+}
+
+#footer{
+	width:100%;
+	padding-top:25px;
+	padding-bottom:15px;
+	text-align:center;
+	float:left;
+
+}
+
+#rightsid{
+	float:right;
+	width:300px;
+	position:relative;
+	top:100;
+	left:300;
+}
+
+#rightsid h2{text-align:center;}
+
+#products p{font-size:18px;}
+#products{padding-top:20px;}
+
+
+#pic table{margin-bottom:15px;}
+
+#box2{margin-bottom:10px;}
+
+#staff img{position:relative;
+			left:00px;}
+			
+			
+#contents{
+	float:left;
+	width:600px;
+	margin-left:
+}
+
+
+#rightsides{
+	float:right;
+	width:500px;
+	}			

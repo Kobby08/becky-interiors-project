@@ -1,0 +1,20 @@
+@keyframes staffFadeInOut{
+	0%{opacity:1;
+	}
+	45%{opacity:1;
+	}
+	55%{opacity:0;
+	}
+	100%{opacity:0;
+	}
+}
+
+#nw img.top{
+	animation-name:nwFadeInOut;
+	animation-timing-function:ease-in-out;
+	animation-iteration-count:infinite;
+	animation-duration:10s;
+	animation-direction:alternate;
+}
+
+
